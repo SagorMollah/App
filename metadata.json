@@ -1,0 +1,6 @@
+{
+  "name": "All-in-One SEO Generator",
+  "description": "Generate SEO-friendly titles, descriptions, and 50 keywords from text, images, or video descriptions instantly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
